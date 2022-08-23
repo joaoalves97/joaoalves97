@@ -3,7 +3,7 @@
 
 ### About me ###
 
-Hi, I'm João! I have a business background and have been working in Procurement for Oil companies since the beginning of my career. I started my studies in Data Analysis to facilitate my performance in negotiations and in proposal analysis. 
+Hi, I'm João! I have a business degree have been working in Procurement for Oil companies since the beginning of my career. I started my studies in Data Analysis to facilitate my performance in negotiations and in proposal analysis. 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
