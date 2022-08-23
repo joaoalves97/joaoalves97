@@ -9,6 +9,17 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 
+### Certificates:
+
+[Data Analyst Nanodegree - Data Analyst Nanodegree](https://confirm.udacity.com/GEFTLZXL)
+
+
+### Contact
+
+[Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-alves-eng598/?locale=en_US))
+
+
+
 
 <!---
 joaoalves97/joaoalves97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
