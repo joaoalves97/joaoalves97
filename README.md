@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Contact
 
-[Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-alves-eng598/?locale=en_US))
+[Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-alves-eng598/?locale=en_US)
 
 
 
