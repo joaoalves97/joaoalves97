@@ -9,6 +9,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 
+### Projects:
+
+[Soccer Analysis](https://github.com/joaoalves97/soccer_analysis/blob/main/football%20analysis.ipynb)
+
 ### Certificates:
 
 [Data Analyst Nanodegree - Udacity](https://confirm.udacity.com/GEFTLZXL)
