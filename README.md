@@ -1,7 +1,7 @@
-<title> João Alves - Data Analysis Portfolio </title>
+# João Alves - Data Analysis Portfolio
 
 
-<head> About me </head>
+### About me ###
 
 Hi, I'm João! I have a business background and have been working in Procurement for Oil companies since the beginning of my career. I started my studies in Data Analysis to facilitate my performance in negotiations and in proposal analysis. 
 
